@@ -1,0 +1,7 @@
+site_name: Documentación del Proyecto
+nav:
+  - Manual de Usuario: docs_src/Manual_de_Usuario.md
+  - Guía de Referencia: docs_src/Guia_de_Referencia.md
+  - Guía de Instalación: docs_src/Guia_de_Instalacion.md
+theme:
+  name: material
