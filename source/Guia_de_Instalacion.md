@@ -1,2 +1,2 @@
 ##hola
-[Descargar Página en formato PDF](files/Guia_de_Instalacion)
+[Descargar Página en formato PDF](files/Guia_de_Instalacion.pdf)
