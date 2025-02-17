@@ -3,6 +3,7 @@ site_url: https://anthonyjortega.github.io/Documentacion_Proyecto/
 docs_dir: 'source'
 site_dir: 'docs'
 nav:
+  - "home": Readme.md
   - "Inicio": Readme.md
   - "Manual de Usuario": Manual_de_Usuario.md
   - "Guía de Referencia": Guia_de_Referencia.md
